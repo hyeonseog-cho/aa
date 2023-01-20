@@ -16,7 +16,7 @@
            
 <center>
 
-
+<form action="loginProc.jsp">
 <div style="border:1px solid gold;">
 <div style="margin:300px auto; width 50%; border:3px">
 <div style="border:2px solid skyblue;">
@@ -33,6 +33,7 @@
                      
 </div>
 </div>
+</form>
 </center>
 
 

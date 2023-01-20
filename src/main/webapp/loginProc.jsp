@@ -18,6 +18,9 @@
    	String password=bdao.getPass(num);
    	
    	if(id.equals(id)&&ps.equals(ps)){
+   		bdao.deleteBoard(num);
+	response.sendRedirect("login.jsp");
+
    		
    		   	}
    	
