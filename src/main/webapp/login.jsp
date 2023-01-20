@@ -21,8 +21,8 @@
 <div style="margin:300px auto; width 50%; border:3px">
 <div style="border:2px solid skyblue;">
 <h1> 로그인</h1>
-아이디 <input type="text">&nbsp;&nbsp;<input type="button" value="ID 중복확인">
-비밀번호<input type="password"> <br><br><br>
+아이디 <input type="text">&nbsp;&nbsp;<input type="button" name="id" value="ID 중복확인">
+비밀번호<input type="password" name="pwd"> <br><br><br>
                      
                      
   

@@ -13,7 +13,7 @@
 	<form action="memberProc.jsp" border="1">
 	<div class="size">
 		<div><span>ID:</span> <input tpye="text" name="id"> <input type="button" value="중복확인"></div><br>
-		<div><span>PassWord:</span> <input tpye="text" name="Pwd"></div><br>
+		<div><span>PassWord:</span> <input tpye="text" name="pwd"></div><br>
 		<div><span>이름:</span> <input tpye="text" name="Name"></div><br>
 		<div><span>성별:</span> <select name="Gender">
 								<option value="남">남</option>
