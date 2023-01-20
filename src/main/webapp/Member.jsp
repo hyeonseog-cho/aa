@@ -14,16 +14,16 @@
 	<div class="size">
 		<div><span>ID:</span> <input tpye="text" name="id"> <input type="button" value="중복확인"></div><br>
 		<div><span>PassWord:</span> <input tpye="text" name="pwd"></div><br>
-		<div><span>이름:</span> <input tpye="text" name="Name"></div><br>
-		<div><span>성별:</span> <select name="Gender">
+		<div><span>이름:</span> <input tpye="text" name="name"></div><br>
+		<div><span>성별:</span> <select name="gender">
 								<option value="남">남</option>
 								<option value="여">여</option>
 							</select></div><br>
-		<div><span>이메일:</span> <input type="email" name="Email"></div><br>
-		<div><span>생년원일:</span> <input type="text" name="Birth" placeholder="yyyy-mm-dd"></div><br>
-		<div><span>우편번호:</span> <input type="text" name="Zipcode"> <input type="button" value="우편번호 찾기"></div><br>
-		<div><span>주소:</span> <input type="text" name="Address"></div><br>
-		<div><span>취미</span>: <select name="Hobby">
+		<div><span>이메일:</span> <input type="email" name="email"></div><br>
+		<div><span>생년원일:</span> <input type="text" name="birth" placeholder="yyyy-mm-dd"></div><br>
+		<div><span>우편번호:</span> <input type="text" name="zipcode"> <input type="button" value="우편번호 찾기"></div><br>
+		<div><span>주소:</span> <input type="text" name="address"></div><br>
+		<div><span>취미</span>: <select name="hobby">
 								<option>등산</option>
 								<option>독서</option>
 								<option>스포츠</option>
