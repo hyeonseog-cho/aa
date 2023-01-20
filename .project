@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>webtest</name>
+=======
+	<name>NewTeamProject</name>
+>>>>>>> branch 'master' of https://github.com/hyeonseog-cho/aa.git
 	<comment></comment>
 	<projects>
 	</projects>

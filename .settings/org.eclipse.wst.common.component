@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="webtest">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="webtest"/>
         <property name="java-output-path" value="/webtest/build/classes"/>
+=======
+    <wb-module deploy-name="NewTeamProject">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="NewTeamProject"/>
+        <property name="java-output-path" value="/NewTeamProject/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/hyeonseog-cho/aa.git
     </wb-module>
 </project-modules>

@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
   <runtime name="Apache Tomcat v9.0"/>
+<<<<<<< HEAD
   <fixed facet="wst.jsdt.web"/>
   <fixed facet="jst.web"/>
+=======
+  <fixed facet="jst.web"/>
+  <fixed facet="wst.jsdt.web"/>
+>>>>>>> branch 'master' of https://github.com/hyeonseog-cho/aa.git
   <fixed facet="java"/>
   <installed facet="java" version="16"/>
   <installed facet="jst.web" version="4.0"/>
